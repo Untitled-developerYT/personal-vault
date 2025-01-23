@@ -2,4 +2,6 @@
 share: "True"
 ---
 Hey, welcome :)
-go to [charecters](?c=Charecters.md)
+[Characters](?c=Charecters.md)
+[Guns](?c=Guns.md)
+[Tinkering](?c=Tinkering.md)
