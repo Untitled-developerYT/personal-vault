@@ -1,7 +1,6 @@
 ---
 share: "True"
 ---
-[[epicgame.canvas|Back to canvas]]  
 # Boss (max 1)  
 - 20% more damage  
 - 20% faster reloads  
