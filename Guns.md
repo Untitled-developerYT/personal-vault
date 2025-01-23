@@ -1,7 +1,7 @@
 ---
 share: "True"
 ---
-[Back to canvas](./epicgame/epicgame.canvas.md)
+[[epicgame.canvas|Back to canvas]]
 ## AK47
 Heavy weapon
 ## Sniper rifle
