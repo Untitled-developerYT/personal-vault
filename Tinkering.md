@@ -1,7 +1,7 @@
 ---
 share: "True"
 ---
-[Back to canvas](./epicgame/epicgame.canvas.md)
+[[epicgame.canvas|Back to canvas]]
 # Types of tinkering
 - Adding mods to a weapon (mid-round)
 - Hacking

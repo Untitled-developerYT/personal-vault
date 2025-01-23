@@ -1,13 +1,13 @@
 ---
 share: "True"
 ---
-[Back to canvas](./epicgame/epicgame.canvas.md)
+[[epicgame.canvas|Back to canvas]]
 # Boss (max 1)
 - 20% more damage
 - 20% faster reloads
 - 5% more ammo
 # Tinkerer
-- 20% faster [Tinkering](./Tinkering.md) speed
+- 20% faster [[Tinkering|Tinkering]] speed
 # Medic
 - infinite medkit
 - no chest armour slot
