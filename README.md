@@ -2,4 +2,4 @@
 share: "True"
 ---
 Hey, welcome :)
-go to [readme](?c=README.md)
+go to [charecters](?c=Charecters.md)
