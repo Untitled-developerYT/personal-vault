@@ -1,7 +1,7 @@
 (function () {
 
   let url = new URL('http://www.test.com/t.html?a=1&b=3&c=m2-m3-m4-m5');
-  console.log(url.searchPerams.get('c'));  // outputs "m2-m3-m4-m5"
+  console.log(url.searchPerams('c'));  // outputs "m2-m3-m4-m5"
   var file = file || "README.md";
   var reader = new stmd.DocParser();
   var writer = new stmd.HtmlRenderer();
