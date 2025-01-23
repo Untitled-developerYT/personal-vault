@@ -16,7 +16,7 @@
     var parsed = reader.parse(xhr.responseText);
     var content = writer.renderBlock(parsed);
     var finished = "data-123".replace(/---.share: "True".---/gs,'');
-    document.getElementsByTagName('body')[0].innerHTML = content;
+    document.getElementsByTagName('body')[0].innerHTML = finished;
     
     /* try to extract h1 title and use as title for page
        if no h1, use name of file 
