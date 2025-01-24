@@ -14,10 +14,7 @@
   };
 
   function display(xhr) {
-    var process = xhr.responseText.replace(/\[\[/g,'[');
-    var process = process.replace(/\]\]/g, '.md)');
-    var process = process.replace(/\|/g, '](?c=');
-    var parsed = reader.parse(process);
+    var parsed = reader.parse(xhr.responseText);
     var content = writer.renderBlock(parsed);
     
     document.getElementsByTagName('body')[0].innerHTML = content;
