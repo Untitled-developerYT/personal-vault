@@ -13,8 +13,7 @@
   };
 
   function display(xhr) {
-    var cleaned = xhr.responseText.replace(/---\sshare: "True"\s---/g,'');
-    var parsed = reader.parse(cleaned);
+    var parsed = reader.parse(xhr.responseText);
     var content = writer.renderBlock(parsed);
     
     document.getElementsByTagName('body')[0].innerHTML = content;
