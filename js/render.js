@@ -18,7 +18,7 @@
     var parsed = reader.parse(clean);
     var content = writer.renderBlock(parsed);
     
-    document.getElementsByTagId('content')[0].innerHTML = content;
+    document.getElementsById('content')[0].innerHTML = content;
     
     /* try to extract h1 title and use as title for page
        if no h1, use name of file 
