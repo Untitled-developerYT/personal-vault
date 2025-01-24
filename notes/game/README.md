@@ -1,4 +1,4 @@
 # Hey, welcome :)  
-[[Characters|Characters]]  [Charentes]()
-[[Guns|Guns]]  
-[[Tinkering|Tinkering]]
+[[Characters|Characters]]  [Characters](?c=game/Characters.md)
+[[Guns|Guns]]  [Guns](?c=game/Guns.md)
+[[Tinkering|Tinkering]]  [Tinkering](?c=game/Tinkering.md)
