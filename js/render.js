@@ -13,7 +13,10 @@
   };
 
   function display(xhr) {
-    var parsed = reader.parse(xhr.responseText);
+    var process = xhr.responseText.replace('[[','[');
+    var process = process.replace(']]', '.md)');
+    var process = process.replace('|', '](?c=');
+    var parsed = reader.parse(process);
     var content = writer.renderBlock(parsed);
     
     document.getElementsByTagName('body')[0].innerHTML = content;
