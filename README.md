@@ -1,4 +1,4 @@
 # Hey, welcome :)  
-[[Characters|Characters]]
-[[Guns|Guns]]
+[[Characters|Characters]]  
+[[Guns|Guns]]  
 [[Tinkering|Tinkering]]
