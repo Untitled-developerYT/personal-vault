@@ -2,7 +2,7 @@
 
   let url = new URL(window.location.href);
   let searchParams = new URLSearchParams(url.search);
-  var file = searchParams.get('c') || "README.md";
+  var file = "notes/" + searchParams.get('c') || "notes/README.md";
   var reader = new stmd.DocParser();
   var writer = new stmd.HtmlRenderer();
   var xhr = new XMLHttpRequest();
