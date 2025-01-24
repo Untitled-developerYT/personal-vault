@@ -1,3 +1,5 @@
+[Back](?c=game/README.md)
+# Characters
 ## Boss (max 1)  
 - 20% more damage  
 - 20% faster reloads  
