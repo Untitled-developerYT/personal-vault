@@ -13,9 +13,9 @@
   };
 
   function display(xhr) {
-    var process = xhr.responseText.replace('[[','[');
-    var process = process.replace(']]', '.md)');
-    var process = process.replace('|', '](?c=');
+    var process = xhr.responseText.replace(/\[\[/g,'[');
+    var process = process.replace(/\]\]/g, '.md)');
+    var process = process.replace(/\|/g, '](?c=');
     var parsed = reader.parse(process);
     var content = writer.renderBlock(parsed);
     
