@@ -1,1 +1,1 @@
-text
+Welcome to this notes collection
