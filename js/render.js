@@ -14,7 +14,7 @@
   };
 
   function display(xhr) {
-    var clean = xhr.responceText.replace(/\[\[.*\]\]/g, '');
+    var clean = xhr.responseText.replace(/\[\[.*\]\]/g, '');
     var parsed = reader.parse(clean);
     var content = writer.renderBlock(parsed);
     
