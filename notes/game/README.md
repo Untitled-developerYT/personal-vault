@@ -1,4 +1,4 @@
 # Hey, welcome :)  
-[[Characters|Characters]]  
+[[Characters|Characters]]  [Charentes]()
 [[Guns|Guns]]  
 [[Tinkering|Tinkering]]
