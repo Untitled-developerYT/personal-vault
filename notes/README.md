@@ -1,1 +1,1 @@
-Welcome to this notes collection
+Welcome to this notes collection, feel free to look around.
