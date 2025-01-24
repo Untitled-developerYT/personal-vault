@@ -1,6 +1,3 @@
----
-share: "True"
----
 # Boss (max 1)  
 - 20% more damage  
 - 20% faster reloads  
