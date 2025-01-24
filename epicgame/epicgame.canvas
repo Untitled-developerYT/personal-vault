@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"9894ae0d223b58c4","type":"group","x":-120,"y":43,"width":1120,"height":1277,"color":"1","label":"Ideas"},
+		{"id":"9035aeb35aaf53e5","type":"text","text":"Brawl stars like gameplay","x":194,"y":158,"width":268,"height":69},
+		{"id":"fcf878e4a0b4bba1","type":"text","text":"Multiplayer","x":556,"y":760,"width":178,"height":55},
+		{"id":"faed4a7e5cc13d3b","type":"file","file":"epicgame/Charecters.md","x":62,"y":280,"width":400,"height":400,"color":"2"},
+		{"id":"4c5ffb405385ea86","type":"file","file":"epicgame/Tinkering.md","x":534,"y":280,"width":400,"height":400,"color":"2"},
+		{"id":"7624ed3caa64ea3a","type":"file","file":"epicgame/Guns.md","x":62,"y":760,"width":400,"height":400,"color":"2"},
+		{"id":"738012271b573a39","type":"text","text":"Voice lines","x":691,"y":1113,"width":149,"height":50},
+		{"id":"26fe442e3f63ed53","type":"text","text":"Recoil","x":645,"y":960,"width":121,"height":50},
+		{"id":"17ff551952cdd582","type":"text","text":"Bleeding status effect","x":521,"y":1200,"width":245,"height":50}
+	],
+	"edges":[]
+}
